@@ -1,0 +1,24 @@
+{
+  "name": "juegorn",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~48.0.9",
+    "expo-status-bar": "~1.4.4",
+    "expo-updates": "~0.16.4",
+    "react": "18.2.0",
+    "react-native": "0.71.6",
+    "react-native-restart": "^0.0.27",
+    "react-native-table-component": "^1.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
